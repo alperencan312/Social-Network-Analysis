@@ -3,7 +3,7 @@ This repository includes the project and assignments of CS429: Dynamic and Socia
 
 #### Project: 
 
-Identifying Malicious Networks and Individuals on Twitter by Misinformation Classification and Network Analysis
+Identifying Malicious Networks and Individuals on Twitter by Misinformation Classification and Network Analysis  
 Teammate: Doruk ALTAN
 
 ##### Project Grades:  
