@@ -16,9 +16,9 @@ Teammate: Doruk ALTAN
  Homeworks and my solutions of them with SNA Tools: ORA, Gephi and VOS Viewer can be found in this repository under Homeworks directory.
  ##### Project Grades:  
 * Homework 1: 90  
-* Homework 1: 96    
-* Homework 1: 98  
-* Homework 1: 98
+* Homework 2: 96    
+* Homework 3: 98  
+* Homework 4: 98
 
 
 
