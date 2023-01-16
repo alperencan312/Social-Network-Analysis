@@ -19,6 +19,7 @@ Teammate: Doruk ALTAN
 * Homework 2: 96    
 * Homework 3: 98  
 * Homework 4: 98
+* Homework 5: 86
 
 
 
